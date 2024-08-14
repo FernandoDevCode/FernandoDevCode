@@ -2,7 +2,6 @@
 
 🎓Atualmente curso Bacharelado de Ciência e Tecnologia na Universidade Federal do ABC.
 
----
 
 ## 🚀 Minhas Skills
 
