@@ -7,7 +7,7 @@
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python"/></code>
-<code><img height="32" src="https://github.com/user-attachments/assets/e4bedf5d-d9d2-4928-ada5-45e592728b63" alt="Java"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/c94f86b6-b1c6-4f7d-aefc-c2107985151b" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
